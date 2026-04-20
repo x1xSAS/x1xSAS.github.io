@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Salman Alsalman"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : # "Short biography for the left-hand sidebar"
+  location         : "Riyadh, Saudi Arabia"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
