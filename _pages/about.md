@@ -72,7 +72,4 @@ My research interests include artificial intelligence, machine learning, deep le
 * Predicting Safety Risks from Street View Photos  
   Applied image processing techniques to predict crime-related risks using street view images.
 
-# Contact
-
-* Email: s.alsalman@psau.edu.sa
-* LinkedIn: [linkedin.com/in/alsalman-s](https://linkedin.com/in/alsalman-s)
+  
