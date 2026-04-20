@@ -1,15 +1,11 @@
 ---
 permalink: /
-title: "About Me"
+title: "Salman A. Alsalman"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
-
-## Summary
 
 I am **Salman Abdullah Alsalman**, an academic professional, computer science lecturer, and AI consultant based in Riyadh, Saudi Arabia. My work focuses on the intersection of **Artificial Intelligence, Machine Learning, Computer Vision, and Computer Science education**.
 
