@@ -195,4 +195,4 @@ DOI: 10.1109/ICCSPA.2015.7081311
 I am always open to academic collaboration, AI consulting discussions, research opportunities, and professional networking.
 
 - **Email:** salman.a.alsalman@gmail.com  
-- **LinkedIn:** [linkedin.com/in/alsalman-s1](https://linkedin.com/in/alsalman-s1)
+- **LinkedIn:** [https://www.linkedin.com/in/alsalman-s/](https://www.linkedin.com/in/alsalman-s/)
