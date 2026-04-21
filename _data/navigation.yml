@@ -11,8 +11,8 @@ main:
   - title: "Home"
     url: /
     
-  # - title: "Publications"
-  #  url: /publications/
+  - title: "Publications2"
+    url: /publications/
 
   # - title: "Talks"
   # url: /talks/    
@@ -26,11 +26,11 @@ main:
   # - title: "Blog Posts"
   #  url: /year-archive/
     
-  # - title: "CV"
-  # url: /cv/
+  - title: "CV"
+    url: /cv/
     
-   - title: "CV"
-     url: /cv-json/
+   # - title: "CV"
+   #  url: /cv-json/
     
   # - title: "Guide"
   #  url: /markdown/
