@@ -137,7 +137,7 @@ DOI: [10.1109/ICCSPA.2015.7081311](https://doi.org/10.1109/ICCSPA.2015.7081311)
 Academic Projects & Research
 ======
 
-**Malaria Cell Detection using Curriculum Learning and Faster R-CNN:** Designed and implemented a deep learning pipeline using Faster R-CNN with Detectron2 and curriculum learning strategies to detect malaria-infected cells in microscope images. Achieved notable improvement in detection performance, especially on low-cost microscope images.
+**Malaria Cell Detection using Curriculum Learning and Faster R-CNN:** Designed and implemented a deep learning pipeline using Faster R-CNN with Detectron2 and curriculum learning strategies to detect malaria-infected cells in microscope images.
 
 **Large-Scale Analysis of Citation Bias:** Developed a predictive model assessing citation likelihood based on demographic data.
 
