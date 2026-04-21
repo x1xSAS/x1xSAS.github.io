@@ -50,26 +50,4 @@ My research interests include artificial intelligence, machine learning, deep le
   * Mentoring students in academic projects and research.
   * Supporting students in programming, problem solving, and computer science fundamentals.
 
-* Academic and professional development:
-  * Certified Artificial Intelligence Consultant (CAIC™), United States Artificial Intelligence Institute (2025)
-  * McKinsey Forward Program (2024)
-
-# Publications
-
-* Ahmed Biyabani, Salman A. Al-Salman, and Khalid S. Alkhalaf. “Embedded real-time bilingual ALPR.” 2015 International Conference on Communications, Signal Processing, and Applications (ICCSPA), Sharjah, 2015. DOI: 10.1109/ICCSPA.2015.7081311
-
-# Research Projects
-
-* Malaria Cell Detection using Curriculum Learning and Faster R-CNN  
-  Designed and implemented a deep learning pipeline using Faster R-CNN with Detectron2 and curriculum learning strategies to detect malaria-infected cells in microscope images.
-
-* Large-Scale Analysis of Citation Bias  
-  Developed a predictive model to analyze citation likelihood based on demographic data.
-
-* Efficient Liver Disease Prediction  
-  Built machine learning classifiers for liver disease prediction based on patient biomarkers.
-
-* Predicting Safety Risks from Street View Photos  
-  Applied image processing techniques to predict crime-related risks using street view images.
-
   
