@@ -14,7 +14,7 @@ redirect_from:
 **AI Consultant and Academic Professional**  
 Riyadh, Saudi Arabia  
 Email: [salman.a.alsalman@gmail.com](mailto:salman.a.alsalman@gmail.com)  
-LinkedIn: [linkedin.com/in/alsalman-s1](https://linkedin.com/in/alsalman-s1)
+LinkedIn: [linkedin.com/in/alsalman-s](https://linkedin.com/in/alsalman-s)
 
 Summary
 ======
