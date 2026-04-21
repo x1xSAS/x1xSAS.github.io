@@ -18,9 +18,7 @@ LinkedIn: [linkedin.com/in/alsalman-s](https://linkedin.com/in/alsalman-s)
 
 Summary
 ======
-I am a lecturer in Computer Science at Prince Sattam bin Abdulaziz University and an AI consultant specializing in artificial intelligence, machine learning, deep learning, and computer vision. My work combines academic teaching, student mentoring, applied AI, IT consulting, project management, and research.
-
-I am interested in using AI to support education, healthcare applications, decision-making, and practical technology solutions for organizations and small businesses.
+Experienced AI consultant and lecturer specializing in artificial intelligence, machine learning, and computer vision. Recognized for integrating advanced AI technologies in both academic and consulting environments. Skilled in guiding small businesses and organizations through strategic planning and project management to leverage AI solutions effectively. Committed to empowering students and clients alike in the ever-evolving tech landscape.
 
 Education
 ======
