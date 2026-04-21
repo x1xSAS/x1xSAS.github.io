@@ -1,152 +1,327 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Salman Abdullah Alsalman",
+    "label": "AI Consultant and Academic Professional",
+    "email": "salman.a.alsalman@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "",
+    "summary": "Lecturer in Computer Science at Prince Sattam bin Abdulaziz University and AI consultant specializing in artificial intelligence, machine learning, deep learning, and computer vision. Experienced in academic teaching, student mentoring, AI instruction, IT consulting, and applied research. Passionate about using AI to support education, decision-making, healthcare applications, and practical technology solutions.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Riyadh",
+      "countryCode": "SA",
+      "region": "Saudi Arabia"
     },
     "profiles": [
       {
+        "network": "LinkedIn",
+        "username": "alsalman-s1",
+        "url": "https://linkedin.com/in/alsalman-s1"
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": ""
+      },
+      {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": ""
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "Prince Sattam bin Abdulaziz University",
+      "position": "University Lecturer",
+      "url": "",
+      "startDate": "2020-01-01",
+      "endDate": "",
+      "summary": "Full-time lecturer in the Department of Computer Science at the College of Computer Engineering and Sciences.",
+      "highlights": [
+        "Teach undergraduate courses in programming, data structures, algorithms, and web applications.",
+        "Mentor students in academic projects and research within the Computer Science department.",
+        "Contribute to academic committees including accreditation, student activities, and alumni-related initiatives."
+      ]
+    },
+    {
+      "name": "Prince Sattam bin Abdulaziz University",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2012-11-01",
+      "endDate": "2019-12-31",
+      "summary": "Supported course delivery and student learning in computer science.",
+      "highlights": [
+        "Assisted students with foundational and advanced concepts in computer science.",
+        "Supported teaching activities, tutorials, labs, and practical programming instruction.",
+        "Participated in research collaboration with faculty members in the Computer Science department."
+      ]
+    },
+    {
+      "name": "Tuwaiq Academy",
+      "position": "AI Instructor for SDAIA GDP Program",
+      "url": "",
+      "startDate": "2024-01-01",
+      "endDate": "2024-02-29",
+      "summary": "Contract AI instructor for the SDAIA GDP Program.",
+      "highlights": [
+        "Delivered sessions on Python programming, neural networks, large language models, and prompt engineering.",
+        "Guided students in neural network projects and AI-related learning activities.",
+        "Helped students prepare for the PCAP certification."
+      ]
+    },
+    {
+      "name": "Smartech Company",
+      "position": "IT Consultant",
+      "url": "",
+      "startDate": "2020-08-01",
+      "endDate": "2021-07-31",
+      "summary": "Contract IT consultant supporting technology projects and strategic decisions.",
+      "highlights": [
+        "Managed IT projects with a focus on healthcare application development.",
+        "Advised on strategic technology decisions and project planning.",
+        "Coordinated communication between developers, designers, and clients to support successful project delivery."
+      ]
+    },
+    {
+      "name": "Elm Company",
+      "position": "Software Developer Intern",
+      "url": "",
+      "startDate": "2011-07-01",
+      "endDate": "2011-09-30",
+      "summary": "Software development internship in Elm’s Innovation Unit.",
+      "highlights": [
+        "Analyzed, designed, and developed a content management system using J2EE.",
+        "Gained practical experience in enterprise software development and system design."
+      ]
+    },
+    {
+      "name": "Imam Muhammad Bin Saud Islamic University",
+      "position": "Computer Lab Assistant",
+      "url": "",
+      "startDate": "2010-09-01",
+      "endDate": "2011-08-31",
+      "summary": "Part-time computer lab assistant at the College of Computer Science and Information Systems.",
+      "highlights": [
+        "Assisted students with programming problems and practical computer science exercises.",
+        "Provided additional lectures and technical support to strengthen students’ programming skills."
+      ]
+    },
+    {
+      "name": "Saudi Aramco",
+      "position": "IT Assistant Intern",
+      "url": "",
+      "startDate": "2009-07-01",
+      "endDate": "2009-09-30",
+      "summary": "IT support internship.",
+      "highlights": [
+        "Responded to users’ IT support requests onsite and remotely.",
+        "Installed and configured IT equipment including printers, monitors, scanners, network cables, and modems."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "San Diego State University",
+      "area": "Computer Science",
+      "studyType": "Master’s Degree",
+      "startDate": "2016-01-01",
+      "endDate": "2019-12-31",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Imam Muhammad Bin Saud Islamic University",
+      "area": "Computer Science",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2006-01-01",
+      "endDate": "2012-12-31",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": [
+        "Graduated with Second Honors"
+      ]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Artificial Intelligence",
+      "level": "",
+      "keywords": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Natural Language Processing",
+        "Large Language Models",
+        "Prompt Engineering"
+      ]
+    },
+    {
+      "name": "Data and Applied AI",
+      "level": "",
+      "keywords": [
+        "Data Analysis",
+        "Predictive Modeling",
+        "Medical Image Analysis",
+        "AI for Business",
+        "AI Strategy",
+        "Decision-Making Systems"
+      ]
+    },
+    {
+      "name": "Teaching and Academic Practice",
+      "level": "",
+      "keywords": [
+        "Programming Education",
+        "Student Mentoring",
+        "Curriculum Support",
+        "Academic Projects",
+        "Research Collaboration"
+      ]
+    },
+    {
+      "name": "Professional Skills",
+      "level": "",
+      "keywords": [
+        "Leadership",
+        "Small Business Consultation",
+        "Strategic Planning",
+        "Project Management",
+        "Client Communication"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Arabic",
+      "fluency": "Native / Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Full Professional Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Deep Learning",
+        "Computer Vision",
+        "Medical Image Analysis",
+        "Data Analysis",
+        "AI for Business",
+        "Technology-Enhanced Education"
+      ]
+    }
+  ],
   "references": [],
+  "certificates": [
+    {
+      "name": "Certified Artificial Intelligence Consultant (CAIC™)",
+      "issuer": "United States Artificial Intelligence Institute",
+      "date": "2025-03-01",
+      "url": "",
+      "credentialId": "8765319297",
+      "summary": "Demonstrated expertise in core AI concepts, business applications of AI and machine learning, NLP, AI for business and society, robotics for organizations, analytics leadership, and AI-driven transformation initiatives."
+    },
+    {
+      "name": "McKinsey Forward Program",
+      "issuer": "McKinsey & Company",
+      "date": "2024-04-01",
+      "url": "",
+      "summary": "Completed a four-month professional development program focused on structured problem solving, effective communication, digital fluency, strategic thinking, and leadership mindset."
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Embedded real-time bilingual ALPR",
+      "publisher": "2015 International Conference on Communications, Signal Processing, and Applications (ICCSPA)",
+      "releaseDate": "2015-01-01",
+      "website": "https://doi.org/10.1109/ICCSPA.2015.7081311",
+      "summary": "Conference publication on embedded real-time bilingual automatic license plate recognition. Authors: Ahmed Biyabani, Salman A. Al-Salman, and Khalid S. Alkhalaf."
     }
   ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
+  "presentations": [],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "Programming",
+      "institution": "Prince Sattam bin Abdulaziz University, Department of Computer Science",
+      "date": "2020-01-01",
+      "role": "University Lecturer",
+      "description": "Undergraduate teaching in programming concepts, problem solving, and practical coding skills."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "Data Structures",
+      "institution": "Prince Sattam bin Abdulaziz University, Department of Computer Science",
+      "date": "2020-01-01",
+      "role": "University Lecturer",
+      "description": "Undergraduate teaching focused on data structures, algorithmic thinking, and implementation skills."
+    },
+    {
+      "course": "Algorithms",
+      "institution": "Prince Sattam bin Abdulaziz University, Department of Computer Science",
+      "date": "2020-01-01",
+      "role": "University Lecturer",
+      "description": "Undergraduate teaching in algorithm design, analysis, and computational problem solving."
+    },
+    {
+      "course": "Web Applications",
+      "institution": "Prince Sattam bin Abdulaziz University, Department of Computer Science",
+      "date": "2020-01-01",
+      "role": "University Lecturer",
+      "description": "Undergraduate teaching related to web application development and applied computing."
+    },
+    {
+      "course": "Python Programming, Neural Networks, LLMs, and Prompt Engineering",
+      "institution": "Tuwaiq Academy, SDAIA GDP Program",
+      "date": "2024-01-01",
+      "role": "AI Instructor",
+      "description": "Delivered AI-focused training sessions and guided students in neural network projects and PCAP preparation."
     }
   ],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
+      "name": "Malaria Cell Detection using Curriculum Learning and Faster R-CNN",
+      "category": "Research Project",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Designed and implemented a deep learning pipeline using Faster R-CNN with Detectron2 and curriculum learning strategies to detect malaria-infected cells in microscope images. The project achieved improved detection performance, especially on low-cost microscope images."
+    },
+    {
+      "name": "Large-Scale Analysis of Citation Bias",
+      "category": "Research Project",
+      "date": "",
+      "url": "",
+      "description": "Developed a predictive model to assess citation likelihood based on demographic data and explore patterns related to citation behavior."
+    },
+    {
+      "name": "Efficient Liver Disease Prediction",
+      "category": "Machine Learning Project",
+      "date": "",
+      "url": "",
+      "description": "Built machine learning classifiers for liver disease prediction using patient biomarker data."
+    },
+    {
+      "name": "Predicting Safety Risks from Street View Photos",
+      "category": "Computer Vision Project",
+      "date": "",
+      "url": "",
+      "description": "Applied image processing and computer vision techniques to predict crime-related safety risks using street view images."
+    },
+    {
+      "name": "AI Consulting and Strategic Technology Support",
+      "category": "Professional Practice",
+      "date": "",
+      "url": "",
+      "description": "Supported organizations and small businesses in understanding AI opportunities, planning AI adoption, and aligning technical solutions with business needs."
     }
   ]
 }
