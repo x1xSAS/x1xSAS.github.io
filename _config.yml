@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Salman Alsalman"
+title                    : "Salman's Academic Portfolio"
 title_separator          : "-"
-name                     : &name "Salman Alsalman"
+name                     : # &name "Salman Alsalman"
 description              : &description "Salman's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://x1xSAS.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -33,7 +33,7 @@ author:
   twitter          : x1xSAS
   orcid            : "https://orcid.org/0009-0009-0098-367X"
   github           : # "x1xSAS"
-  employer         : # "Prince Sattam Bin Abdulaziz University"
+  employer         : # "PSAU"
   
    
 
@@ -130,7 +130,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -227,16 +227,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
