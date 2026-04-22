@@ -5,32 +5,57 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+# Publications
 
+This page includes my academic publications and research contributions. My research interests focus on Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and applied AI solutions, especially in areas related to image analysis, intelligent systems, and data-driven decision-making.
 
+---
 
+## Conference Publications
+
+### Embedded Real-Time Bilingual ALPR
+
+**Ahmed Biyabani, Salman A. Al-Salman, and Khalid S. Alkhalaf**  
+*2015 International Conference on Communications, Signal Processing, and Applications (ICCSPA), Sharjah, 2015.*
+
+**DOI:** [10.1109/ICCSPA.2015.7081311](https://doi.org/10.1109/ICCSPA.2015.7081311)
+
+This work presents an embedded real-time bilingual automatic license plate recognition system. The project reflects my early research involvement in computer vision, image processing, and intelligent recognition systems.
+
+---
+
+## Research Interests
+
+My current and future research interests include:
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Computer Vision
+* Medical Image Analysis
+* Data Analysis
+* Intelligent Systems
+* AI for Business and Decision-Making
+* Technology-Enhanced Education
+
+---
+
+## Selected Academic Projects and Research
+
+### Malaria Cell Detection using Curriculum Learning and Faster R-CNN
+
+Designed and implemented a deep learning pipeline using Faster R-CNN with Detectron2 and curriculum learning strategies to detect malaria-infected cells in microscope images. The project achieved notable improvement in detection performance, especially on low-cost microscope images.
+
+### Large-Scale Analysis of Citation Bias
+
+Developed a predictive model assessing citation likelihood based on demographic data.
+
+### Efficient Liver Disease Prediction
+
+Built machine learning classifiers for liver disease prediction based on patient biomarkers.
+
+### Predicting Safety Risks from Street View Photos
+
+Applied image processing techniques to predict crime rates using street view data.
