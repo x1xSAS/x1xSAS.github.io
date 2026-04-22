@@ -30,7 +30,7 @@ Professional Experience
 **University Lecturer (Full Time)**  
 *Jan 2020 – Present*
 
-* Lead courses in Programming, Data Structures, Algorithms, and Web Applications.
+* Lead courses in Programming, Data Structures, Algorithms, Discrete Mathematics, and Web Applications.
 * Contribute to committees, including Accreditation, Student Activities, and Alumni.
 * Mentor students in academic projects and research within the Computer Science department.
 
