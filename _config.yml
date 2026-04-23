@@ -28,7 +28,7 @@ author:
   bio              : "Lecturer, College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University"
   location         : "Riyadh, Saudi Arabia"
   email            : "s.alsalman@psau.edu.sa"
-  uri              : "https://faculty.psau.edu.sa/en/psau/facultymember/7387"
+  uri              : # "https://faculty.psau.edu.sa/en/psau/facultymember/7387"
   linkedin         : alsalman-s
   twitter          : x1xSAS
   orcid            : "https://orcid.org/0009-0009-0098-367X"
