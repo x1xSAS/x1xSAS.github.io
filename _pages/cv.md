@@ -25,7 +25,7 @@ Experienced AI consultant and lecturer specializing in artificial intelligence, 
 Professional Experience
 ======
 
-**Prince Sattam bin Abdulaziz University**  
+### **Prince Sattam bin Abdulaziz University**  
 *Nov 2012 – Present*
 
 **University Lecturer (Full Time)**  
@@ -41,7 +41,7 @@ Professional Experience
 * Supported course delivery, assisting students with foundational and advanced concepts in computer science.
 * Engaged in research collaboration with professors in the Computer Science department.
 
-**Tuwaiq Academy**
+### **Tuwaiq Academy**
 
 **AI Instructor for SDAIA GDP Program (Contractor)**  
 *Jan 2024 – Feb 2024*
@@ -49,7 +49,7 @@ Professional Experience
 * Conducted sessions on Python programming, neural networks, and large language models.
 * Guided students in prompt engineering and neural network projects, preparing them for PCAP certification.
 
-**Smartech Company**
+### **Smartech Company**
 
 **IT Consultant (Contractor)**  
 *Aug 2020 – Jul 2021*
@@ -57,14 +57,14 @@ Professional Experience
 * Managed IT projects and advised on strategic decisions, with a focus on app development for healthcare.
 * Coordinated communication between developers, designers, and clients to ensure project success.
 
-**Elm Company**
+### **Elm Company**
 
 **Software Developer (Intern)**  
 *Jul 2011 – Sep 2011*
 
 * Analyzed, designed, and developed a new CMS system using J2EE for Elm’s Innovation Unit.
 
-**IMAMU (College of Computer Science and Information Systems)**
+### **IMAMU (College of Computer Science and Information Systems)**
 
 **Computer Lab Assistant (Part-Time)**  
 *Sep 2010 – Aug 2011*
@@ -72,7 +72,7 @@ Professional Experience
 * Assisted students with programming problems and offered additional lectures.
 * Helped enhance students’ programming skills through practical support and guidance.
 
-**Saudi Aramco**
+### **Saudi Aramco**
 
 **IT Assistant (Intern)**  
 *Jul 2009 – Sep 2009*
