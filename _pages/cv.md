@@ -102,23 +102,16 @@ Key Skills
 Certifications & Professional Development
 ======
 
-**IBM AI Skills Accelerator Program**  
-*Apr 2026 – Jun 2026*  
-IBM SkillsBuild
+**IBM AI Skills Accelerator Program** - (*Apr 2026 – Jun 2026*)
+<BR>IBM SkillsBuild
+<BR>- Completed the 10-week AI Skills Accelerator program and earned all related microcredentials in generative AI, machine learning, NLP, AI-enabled applications, and IBM SkillsBuild Faculty.
 
-Completed the 10-week AI Skills Accelerator program and earned all related microcredentials in generative AI, machine learning, NLP, AI-enabled applications, and IBM SkillsBuild Faculty.
+**Certified Artificial Intelligence Consultant (CAIC™)** - (*Mar 2025*)
+<BR>United States Artificial Intelligence Institute (USAI® - [Credential ID: 8765319297](https://www.dgbadge.com/certified/member/8765319297) )
+<BR>- Certified in core AI concepts, AI/ML business applications, and AI-driven transformation initiatives.
 
-**Certified Artificial Intelligence Consultant (CAIC™)**  
-*Mar 2025*  
-United States Artificial Intelligence Institute (USAI®)  
-[Credential ID: 8765319297](https://www.dgbadge.com/certified/member/8765319297)
-
-Certified in core AI concepts, AI/ML business applications, and AI-driven transformation initiatives.
-
-**McKinsey Forward Program**  
-*Jan 2024 – Apr 2024*
-
-Professional development program focused on structured problem solving, communication, digital fluency, strategic thinking, and leadership.
+**McKinsey Forward Program** - (*Jan 2024 – Apr 2024*)
+<BR>- Professional development program focused on structured problem solving, communication, digital fluency, strategic thinking, and leadership.
 
 Languages
 ======
