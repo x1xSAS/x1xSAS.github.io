@@ -11,7 +11,7 @@ redirect_from:
 
 # Salman Abdullah Alsalman
 
-**AI Consultant and Academic Professional**  
+**AI Consultant, Academic Professional, and Researcher**  
 Riyadh, Saudi Arabia  
 
 * Email: [salman.a.alsalman@gmail.com](mailto:salman.a.alsalman@gmail.com)
@@ -20,7 +20,7 @@ Riyadh, Saudi Arabia
 
 Summary
 ======
-Experienced AI consultant and lecturer specializing in artificial intelligence, machine learning, and computer vision. Recognized for integrating advanced AI technologies in both academic and consulting environments. Skilled in guiding small businesses and organizations through strategic planning and project management to leverage AI solutions effectively. Committed to empowering students and clients alike in the ever-evolving tech landscape.
+AI consultant, lecturer, and researcher specializing in artificial intelligence, machine learning, deep learning, computer vision, and applied AI systems. My academic and research interests include intelligent image analysis, remote sensing image change detection, medical image analysis, and data-driven decision-making. I have experience teaching computer science courses, mentoring student projects, contributing to research publications, and supporting organizations in strategic planning and AI-related initiatives.
 
 Professional Experience
 ======
@@ -32,22 +32,25 @@ Professional Experience
 *Jan 2020 – Present*
 
 * Lead courses in Programming, Data Structures, Algorithms, Discrete Mathematics, and Web Applications.
-* Contribute to committees, including Accreditation, Student Activities, and Alumni.
-* Mentor students in academic projects and research within the Computer Science department.
+* Contribute to academic committees, including Accreditation, Student Activities, and Alumni.
+* Mentor students in academic projects, graduation projects, and research within the Computer Science department.
+* Support curriculum development, assessment preparation, and course coordination activities.
 
 **Teaching Assistant**  
 *Nov 2012 – Dec 2019*
 
 * Supported course delivery, assisting students with foundational and advanced concepts in computer science.
-* Engaged in research collaboration with professors in the Computer Science department.
+* Engaged in research collaboration with faculty members in the Computer Science department.
+* Assisted in labs, tutorials, grading, and academic support activities.
 
 ### **Tuwaiq Academy**
 
 **AI Instructor for SDAIA GDP Program (Contractor)**  
 *Jan 2024 – Feb 2024*
 
-* Conducted sessions on Python programming, neural networks, and large language models.
-* Guided students in prompt engineering and neural network projects, preparing them for PCAP certification.
+* Conducted sessions on Python programming, neural networks, large language models, and prompt engineering.
+* Guided students in neural network projects and practical AI applications.
+* Supported learners in preparation for PCAP certification and AI-related technical skills.
 
 ### **Smartech Company**
 
@@ -56,6 +59,7 @@ Professional Experience
 
 * Managed IT projects and advised on strategic decisions, with a focus on app development for healthcare.
 * Coordinated communication between developers, designers, and clients to ensure project success.
+* Supported project planning, requirements analysis, and client-facing technology consultation.
 
 ### **Elm Company**
 
@@ -63,6 +67,7 @@ Professional Experience
 *Jul 2011 – Sep 2011*
 
 * Analyzed, designed, and developed a new CMS system using J2EE for Elm’s Innovation Unit.
+* Supported software development tasks and contributed to internal system improvement.
 
 ### **IMAMU (College of Computer Science and Information Systems)**
 
@@ -94,9 +99,11 @@ Imam Muhammad Bin Saud Islamic University, Saudi Arabia
 Key Skills
 ======
 
-**Technical Skills:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Analysis
+**Technical Skills:** Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Remote Sensing, Image Analysis, Change Detection, Data Analysis, Programming, Web Applications
 
-**Soft Skills:** Leadership, Small Business Consultation, Strategic Planning, Project Management
+**Research Skills:** Scientific Writing, Literature Review, Experimental Design, Deep Learning Model Evaluation, Academic Collaboration
+
+**Soft Skills:** Leadership, Teaching, Mentoring, Small Business Consultation, Strategic Planning, Project Management, Communication
 
 Licenses & Certifications
 ======
@@ -130,6 +137,15 @@ Languages
 Publications
 ======
 
+### Journal Publications
+
+Salman Alsalman and Amina Salhi.  
+“HCFFormer: a hybrid CNN–transformer framework for heterogeneous remote sensing image change detection.”  
+*International Journal of Remote Sensing, 2026.*  
+DOI: [10.1080/01431161.2026.2691979](https://doi.org/10.1080/01431161.2026.2691979)
+
+### Conference Publications
+
 Ahmed Biyabani, Salman A. Al-Salman, and Khalid S. Alkhalaf.  
 “Embedded real-time bilingual ALPR.”  
 *2015 International Conference on Communications, Signal Processing, and Applications (ICCSPA), Sharjah, 2015.*  
@@ -137,6 +153,8 @@ DOI: [10.1109/ICCSPA.2015.7081311](https://doi.org/10.1109/ICCSPA.2015.7081311)
 
 Academic Projects & Research
 ======
+
+**HCFFormer: Hybrid CNN–Transformer Framework for Heterogeneous Remote Sensing Image Change Detection:** Published research work proposing a hybrid deep learning framework that combines CNN and Transformer-based approaches for heterogeneous remote sensing image change detection.
 
 **Malaria Cell Detection using Curriculum Learning and Faster R-CNN:** Designed and implemented a deep learning pipeline using Faster R-CNN with Detectron2 and curriculum learning strategies to detect malaria-infected cells in microscope images.
 
