@@ -20,7 +20,8 @@ Riyadh, Saudi Arabia
 
 Summary
 ======
-AI consultant, lecturer, and researcher specializing in artificial intelligence, machine learning, deep learning, computer vision, and applied AI systems. My academic and research interests include intelligent image analysis, remote sensing image change detection, medical image analysis, and data-driven decision-making. I have experience teaching computer science courses, mentoring student projects, contributing to research publications, and supporting organizations in strategic planning and AI-related initiatives.
+AI consultant, lecturer, and researcher specializing in artificial intelligence, machine learning, deep learning, computer vision, and applied AI systems. My work bridges academia, research, and practical AI adoption, with interests in intelligent image analysis, remote sensing change detection, medical image analysis, and data-driven decision-making. I have experience teaching computer science courses, mentoring student projects, contributing to peer-reviewed research, and supporting organizations in strategic planning, project management, and AI-related initiatives.
+
 
 Professional Experience
 ======
