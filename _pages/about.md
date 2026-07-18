@@ -23,8 +23,7 @@ My research interests include artificial intelligence, machine learning, deep le
 ## Educations
 
 * M.Sc., Computer Science, San Diego State University, United States *(2016 – 2019)*
-* B.Sc., Computer Science, Imam Muhammad Bin Saud Islamic University, Saudi Arabia *(2006 – 2012)*
-  Graduated with Second Honors.
+* B.Sc., Computer Science, Imam Muhammad Bin Saud Islamic University, Saudi Arabia *(2006 – 2012)* \[Graduated with Second Honors.\]
 
 ## Work Experiences
 
