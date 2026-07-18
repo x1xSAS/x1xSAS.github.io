@@ -29,8 +29,8 @@ My research interests include artificial intelligence, machine learning, deep le
 
 * Lecturer in the Department of Computer Science at the College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University *(2020 – present)*
 * Teaching Assistant in the Department of Computer Science at the College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University *(2012 – 2019)*
-* AI Instructor for the SDAIA GDP Program at Tuwaiq Academy (2024)
-* IT Consultant at Smartech Company (2020 – 2021)
-* Software Developer Intern at Elm Company (2011)
-* Computer Lab Assistant at the College of Computer Science and Information Systems, Imam Muhammad Bin Saud Islamic University (2010 – 2011)
-* IT Assistant Intern at Saudi Aramco (2009)
+* AI Instructor for the SDAIA GDP Program at Tuwaiq Academy *(2024)*
+* IT Consultant at Smartech Company *(2020 – 2021)*
+* Software Developer Intern at Elm Company *(2011)*
+* Computer Lab Assistant at the College of Computer Science and Information Systems, Imam Muhammad Bin Saud Islamic University *(2010 – 2011)*
+* IT Assistant Intern at Saudi Aramco *(2009)*
