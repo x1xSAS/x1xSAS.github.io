@@ -11,14 +11,11 @@ main:
   - title: "Home"
     url: /
     
-  - title: "Portfolio"
-    url: /portfolio/
-    
   - title: "Publications"
     url: /publications/
 
   - title: "CV"
-    url: /cv/
+    url: /files/Salman%20Alsalman_CV.pdf
 
   - title: "Teaching"
     url: /teaching/ 
