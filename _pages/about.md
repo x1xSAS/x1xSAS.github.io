@@ -15,16 +15,19 @@ My academic and professional work focuses on teaching computer science, mentorin
 
 My research interests include artificial intelligence, machine learning, deep learning, computer vision, medical image analysis, data analysis, and AI-based decision-making systems.
 
+> "Do what you can, with what you have, where you are."
+>  -Theodore Roosevelt
+
 # Educations
 
-* M.Sc., Computer Science, San Diego State University, United States (2016 – 2019)
-* B.Sc., Computer Science, Imam Muhammad Bin Saud Islamic University, Saudi Arabia (2006 – 2012)  
+* M.Sc., Computer Science, San Diego State University, United States *(2016 – 2019)*
+* B.Sc., Computer Science, Imam Muhammad Bin Saud Islamic University, Saudi Arabia *(2006 – 2012)*
   Graduated with Second Honors.
 
 # Work Experiences
 
-* Lecturer in the Department of Computer Science at the College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University (2020 – present)
-* Teaching Assistant in the Department of Computer Science at the College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University (2012 – 2019)
+* Lecturer in the Department of Computer Science at the College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University *(2020 – present)*
+* Teaching Assistant in the Department of Computer Science at the College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University *(2012 – 2019)*
 * AI Instructor for the SDAIA GDP Program at Tuwaiq Academy (2024)
 * IT Consultant at Smartech Company (2020 – 2021)
 * Software Developer Intern at Elm Company (2011)
