@@ -9,7 +9,7 @@ redirect_from:
 
 ## Salman Abdullah Alsalman
 
-I am a lecturer in the Department of Computer Science at the College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University. I am also an AI consultant and academic professional with interests in artificial intelligence, machine learning, computer vision, and applied AI solutions.
+I am a [lecturer](https://faculty.psau.edu.sa/en/psau/facultymember/7387) in the Department of Computer Science at the College of Computer Engineering and Sciences, Prince Sattam bin Abdulaziz University. I am also an AI consultant and academic professional with interests in artificial intelligence, machine learning, computer vision, and applied AI solutions.
 
 My academic and professional work focuses on teaching computer science, mentoring students, and exploring how artificial intelligence can be used to solve real-world problems. I have experience in programming education, AI instruction, IT consulting, project management, and applied research.
 
